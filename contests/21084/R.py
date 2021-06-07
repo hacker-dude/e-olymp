@@ -1,0 +1,1 @@
+# yoveli elementi win gadadis i- it da wreze midis
