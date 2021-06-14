@@ -1,0 +1,6 @@
+input()
+x = set(map(int, input().split()))
+input()
+y = set(map(int, input().split()))
+u = set.union(x,y)
+print(*sorted(u))
