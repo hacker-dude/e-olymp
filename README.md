@@ -1,3 +1,3 @@
 # e-olymp
-everything e-olymp
-contest and problems on python
+everything e-olymp,
+contests and problems on python
